@@ -17,7 +17,7 @@ E-commerce is, like, so hot right now, so hop on the bandwagon here: [Site is do
 Visit the [Site is down, so please enjoy this!](https://www.instagram.com/moolovesdonuts/) app and stock up on useless junk!
 
 ## Output:
-
+<img width="1413" alt="shop-shop" src="https://user-images.githubusercontent.com/90208612/179090713-08ac3b1c-3a44-4f0c-953c-c22ab1147129.png">
 
 ## Tests
 Jest was used to test the code in this project.

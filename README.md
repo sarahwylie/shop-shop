@@ -11,13 +11,13 @@ Need a teddy bear, a roll of toilet paper, an NFT, and a nanny? Target could get
 * [Queries](#any-questions)
 
 ## Usage
-E-commerce is, like, so hot right now, so hop on the bandwagon here: [Food Festival](https://sarahwylie.github.io/Food-Festival/).
+E-commerce is, like, so hot right now, so hop on the bandwagon here: [Site is down, so please enjoy this!](https://www.instagram.com/moolovesdonuts/).
 
 ## Installation
-Visit the [Food Festival](https://sarahwylie.github.io/Food-Festival/) app, wipe off your drool, and start munching!
+Visit the [Site is down, so please enjoy this!](https://www.instagram.com/moolovesdonuts/) app and stock up on useless junk!
 
 ## Output:
-![Food Festival](https://user-images.githubusercontent.com/90208612/172202917-d7fd339a-b2bc-4b2a-b2d4-55444eede94e.png)
+
 
 ## Tests
 Jest was used to test the code in this project.
@@ -30,6 +30,10 @@ Jest was used to test the code in this project.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Any Questions?
 Contact [@sarahwylie](https://github.com/sarahwylie) on GitHub
